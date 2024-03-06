@@ -1,0 +1,1 @@
+# MFE With Vue, React, Vanilla and Module Federation
